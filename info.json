@@ -1,0 +1,9 @@
+{
+    "name": "artillery-spotter",
+    "version": "0.1.0",
+    "title": "Artiller Spotter",
+    "author": "Robert Zakoyan",
+    "factorio_version": "1.1",
+    "dependencies": ["base >= 1.1"],
+    "description": "This mod a way to read if there are enemy structures or units around, much like an artillery cannon, and provide this info into circuit"
+  }
